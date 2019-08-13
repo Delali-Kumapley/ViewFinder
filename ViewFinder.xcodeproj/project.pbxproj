@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		E85F8C31230326D100FEE051 /* AddPhotoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E85F8C30230326D100FEE051 /* AddPhotoViewController.swift */; };
 		E87D02632302F0D6005C3357 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E87D02622302F0D6005C3357 /* AppDelegate.swift */; };
 		E87D02682302F0D6005C3357 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E87D02662302F0D6005C3357 /* Main.storyboard */; };
 		E87D026B2302F0D6005C3357 /* ViewFinder.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = E87D02692302F0D6005C3357 /* ViewFinder.xcdatamodeld */; };
@@ -34,6 +35,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		E85F8C30230326D100FEE051 /* AddPhotoViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddPhotoViewController.swift; sourceTree = "<group>"; };
 		E87D025F2302F0D6005C3357 /* ViewFinder.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ViewFinder.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E87D02622302F0D6005C3357 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		E87D02672302F0D6005C3357 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -98,6 +100,7 @@
 			isa = PBXGroup;
 			children = (
 				E87D02622302F0D6005C3357 /* AppDelegate.swift */,
+				E85F8C30230326D100FEE051 /* AddPhotoViewController.swift */,
 				E87D02662302F0D6005C3357 /* Main.storyboard */,
 				E87D026C2302F0DA005C3357 /* Assets.xcassets */,
 				E87D026E2302F0DA005C3357 /* LaunchScreen.storyboard */,
@@ -257,6 +260,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				E87D026B2302F0D6005C3357 /* ViewFinder.xcdatamodeld in Sources */,
+				E85F8C31230326D100FEE051 /* AddPhotoViewController.swift in Sources */,
 				E87D02632302F0D6005C3357 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
